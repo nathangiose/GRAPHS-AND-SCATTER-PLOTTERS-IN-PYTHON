@@ -1,7 +1,6 @@
 # Nathan John Giose
-# First we're importing everything from matplotlib
-# Second we're importing matplotlib as plt
-
+# First we're importing matplotlib as plt
+# Next we're importing numpy as np
 
 import matplotlib.pyplot as plt
 import numpy as np
